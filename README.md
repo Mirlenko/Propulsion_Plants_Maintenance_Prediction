@@ -1,6 +1,6 @@
 # Gas Turbine and Compressor Decay State Coefficients Prediction
 
-In the current project the Predictive Maintenance estimator models are built to predict the Gas Turbine and Compressor decay state coefficients;
+In the current [project](https://github.com/Mirlenko/Propulsion_Plants_Maintenance_Prediction/tree/main/tools) the Predictive Maintenance estimator models are built to predict the Gas Turbine and Compressor decay state coefficients;
 * the prediction models are based on ML and DL concepts; 
 * the problem solved is a classical regression task;
 * among the tested algortihms are linear and ensemble models, as well as Neural Networks.
